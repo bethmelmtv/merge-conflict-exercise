@@ -1,6 +1,6 @@
 // import functions and grab DOM elements
 
-const duder =
+const an error =
 
 // let state
 
