@@ -1,6 +1,6 @@
 // import functions and grab DOM elements
 
-// let state
+ const Beth = 4;
 
 // set event listeners 
   // get user input
