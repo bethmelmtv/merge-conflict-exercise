@@ -1,6 +1,6 @@
 // import functions and grab DOM elements
 
-const dude =
+const duder =
 
 // let state
 
